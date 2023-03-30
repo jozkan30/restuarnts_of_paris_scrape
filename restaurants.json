@@ -1,0 +1,192 @@
+[
+  {
+    "Name": "Comice",
+    "Address": "31 Avenue de Versailles, 75016 Paris, France",
+    "Phone": "01 42 15 55 70"
+  },
+  {
+    "Name": "Prunier",
+    "Address": "16 Av. Victor Hugo, 75116 Paris, France",
+    "Phone": "01 44 17 35 85"
+  },
+  {
+    "Name": "Le Bistrot Flaubert",
+    "Address": "10 Rue Gustave Flaubert, 75017 Paris, France",
+    "Phone": "01 42 67 05 81"
+  },
+  {
+    "Name": "Restaurant Arnaud Nicolas",
+    "Address": "46 Avenue de la Bourdonnais, 75007 Paris, France",
+    "Phone": "01 45 55 59 59"
+  },
+  {
+    "Name": "Chez L'Ami Jean",
+    "Address": "27 Rue Malar, 75007 Paris, France",
+    "Phone": "01 47 05 86 89"
+  },
+  {
+    "Name": "Restaurant David Toutain",
+    "Address": "29 rue Surcouf, Paris, \u00cele-de-France",
+    "Phone": "(+33) 1 45 50 11 10"
+  },
+  {
+    "Name": "L\u2019Arp\u00e8ge",
+    "Address": "84 rue de Varenne, Paris, \u00cele-de-France",
+    "Phone": "(+33) 1 47 05 09 06"
+  },
+  {
+    "Name": "Jos\u00e9phine Chez Dumonet",
+    "Address": "117 rue du Cherche-Midi, Paris, \u00cele-de-France",
+    "Phone": "(+33) 145-485240"
+  },
+  {
+    "Name": "Mosuke",
+    "Address": "11 Rue Raymond Losserand, 75014 Paris, France",
+    "Phone": "01 43 20 21 39"
+  },
+  {
+    "Name": "L'Assiette",
+    "Address": "181 Rue du Ch\u00e2teau, 75014 Paris, France",
+    "Phone": "01 43 22 64 86"
+  },
+  {
+    "Name": "Menkicchi",
+    "Address": "41 Rue Sainte-Anne, 75001 Paris, France",
+    "Phone": "01 42 21 11 68"
+  },
+  {
+    "Name": "l\u2019Hu\u00eetrerie R\u00e9gis",
+    "Address": "3 rue de Montfaucon, Paris, \u00cele-de-France",
+    "Phone": "(+33)  1 44 41 10 07"
+  },
+  {
+    "Name": "Juvenile\u2019s",
+    "Address": "47 Rue de Richelieu, 75001 Paris, France",
+    "Phone": "01 42 97 46 49"
+  },
+  {
+    "Name": "Le Maquis",
+    "Address": "53 Rue des Cloys, 75018 Paris, France",
+    "Phone": "01 42 58 87 82"
+  },
+  {
+    "Name": "La Bourse et la Vie",
+    "Address": "12 rue Vivienne, Paris, \u00cele-de-France",
+    "Phone": "(+33) 1 42 60 08 83"
+  },
+  {
+    "Name": "KGB",
+    "Address": "25 Rue des Grands Augustins, 75006 Paris, France",
+    "Phone": "01 46 33 00 85"
+  },
+  {
+    "Name": "Restaurant Omar Dhiab",
+    "Address": "23 Rue H\u00e9rold, 75001 Paris, France",
+    "Phone": "01 42 33 52 47"
+  },
+  {
+    "Name": "Restaurant Granite",
+    "Address": "6 Rue Bailleul, 75001 Paris, France",
+    "Phone": "01 40 13 64 06"
+  },
+  {
+    "Name": "Au Pied de Cochon",
+    "Address": "6 rue Coquilli\u00e8re, Paris, \u00cele-de-France",
+    "Phone": "(+33) 1 40 13 77 00"
+  },
+  {
+    "Name": "Frenchie",
+    "Address": "5 Rue du Nil, 75002 Paris, France",
+    "Phone": "01 40 39 96 19"
+  },
+  {
+    "Name": "Tek\u00e9s",
+    "Address": "4 bis Rue Saint-Sauveur, 75002 Paris, France",
+    "Phone": "07 81 42 54 74"
+  },
+  {
+    "Name": "Raviolis Chinois Nord-Est",
+    "Address": "115 rue Saint-Denis, Paris, \u00cele-de-France",
+    "Phone": "(+33) 9 81 17 19 08"
+  },
+  {
+    "Name": "Les Arlots",
+    "Address": "136 rue du Faubourg Poissonni\u00e8re, Paris, \u00cele-de-France",
+    "Phone": "(+33) 142-829201"
+  },
+  {
+    "Name": "Eels",
+    "Address": "27 Rue d'Hauteville, 75010 Paris, France",
+    "Phone": "01 42 28 80 20"
+  },
+  {
+    "Name": "Parcelles",
+    "Address": "13 Rue Chapon, 75003 Paris, France",
+    "Phone": "01 43 37 91 64"
+  },
+  {
+    "Name": "Caf\u00e9 les Deux Gares",
+    "Address": "1 Rue des Deux Gares, 75010 Paris, France",
+    "Phone": "01 40 38 17 05"
+  },
+  {
+    "Name": "Pho Tai",
+    "Address": "13 rue Philibert Lucot, Paris, \u00cele-de-France",
+    "Phone": "(+33) 1 45 85 97 36"
+  },
+  {
+    "Name": "Breizh Caf\u00e9",
+    "Address": "111 rue Vieille du Temple, Paris, \u00cele-de-France",
+    "Phone": "(+33) 1 42 71 39 44"
+  },
+  {
+    "Name": "Magma",
+    "Address": "9 Rue Jean-Pierre Timbaud, 75011 Paris, France",
+    "Phone": "01 48 05 56 90"
+  },
+  {
+    "Name": "Le Tagine",
+    "Address": "13 Rue de Crussol, 75011 Paris, France",
+    "Phone": "01 47 00 28 67"
+  },
+  {
+    "Name": "L\u2019Amarante",
+    "Address": "4 Rue Biscornet, 75012 Paris, France",
+    "Phone": "(+33) 09 50 80 93 80"
+  },
+  {
+    "Name": "Aux Bons Crus ",
+    "Address": "54 Rue Godefroy Cavaignac, 75011 Paris, France",
+    "Phone": "01 45 67 21 13"
+  },
+  {
+    "Name": "Septime",
+    "Address": "80 rue de Charonne, Paris, \u00cele-de-France",
+    "Phone": "(+33) 143-673829"
+  },
+  {
+    "Name": "Clamato",
+    "Address": "80 Rue de Charonne, 75011 Paris, France",
+    "Phone": "01 43 72 74 53"
+  },
+  {
+    "Name": "Caf\u00e9 du Coin",
+    "Address": "9 Rue Camille Desmoulins, 75011 Paris, France",
+    "Phone": "01 48 04 82 46"
+  },
+  {
+    "Name": "Le Cadoret",
+    "Address": "1 Rue Pradier, 75019 Paris, France",
+    "Phone": "01 53 21 92 13"
+  },
+  {
+    "Name": "Mokonuts",
+    "Address": "5 rue Saint-Bernard, Paris, \u00cele-de-France",
+    "Phone": "(+33) 611-955912"
+  },
+  {
+    "Name": "Le Baratin",
+    "Address": "3 rue Jouye-Rouve, Paris, \u00cele-de-France",
+    "Phone": "(+33) 143-493970"
+  }
+]
